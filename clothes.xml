@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<clothes>
+	<item>
+		<name>Ботинки челси</name>
+		<cost>269</cost>
+		<img>media/clothes/women/Ботинки челси.jpg</img>
+		<gender>women</gender>
+	</item>
+	<item>
+		<name>Джемпер из шерсти</name>
+		<cost>199</cost>
+		<img>media/clothes/women/Джемпер из шерсти.png</img>
+		<gender>women</gender>
+	</item>
+	<item>
+		<name>Джинсы</name>
+		<cost>149</cost>
+		<img>media/clothes/women/Джинсы.jpg</img>
+		<gender>women</gender>
+	</item>
+	<item>
+		<name>Дублёнка-халат</name>
+		<cost>219</cost>
+		<img>media/clothes/women/Дублёнка-халат.jpg</img>
+		<gender>women</gender>
+	</item>
+	<item>
+		<name>Рубашка Harris</name>
+		<cost>299</cost>
+		<img>media/clothes/women/Рубашка Harris.jpg</img>
+		<gender>women</gender>
+	</item>
+	<item>
+		<name>Джемпер с коротким рукавом</name>
+		<cost>399</cost>
+		<img>media/clothes/women/Джемпер с коротким рукавом.jpg</img>
+		<gender>women</gender>
+	</item>
+	<item>
+		<name>Шорты джинсовые</name>
+		<cost>99</cost>
+		<img>media/clothes/women/Шорты джинсовые.jpg</img>
+		<gender>women</gender>
+	</item>
+	<item>
+		<name>Сапоги из кожи</name>
+		<cost>499</cost>
+		<img>media/clothes/women/Сапоги из кожи.jpg</img>
+		<gender>women</gender>
+	</item>
+	<item>
+		<name>Свитер из шерсти</name>
+		<cost>199</cost>
+		<img>media/clothes/women/Свитер из шерсти.jpg</img>
+		<gender>women</gender>
+	</item>
+	<item>
+		<name>Лонгслив из хлопка</name>
+		<cost>219</cost>
+		<img>media/clothes/women/Лонгслив из хлопка.jpg</img>
+		<gender>women</gender>
+	</item>
+	<item>
+		<name>Пальто из шерсти</name>
+		<cost>359</cost>
+		<img>media/clothes/women/Пальто из шерсти.png</img>
+		<gender>women</gender>
+	</item>
+	<item>
+		<name>Дубленка из овчины</name>
+		<cost>399</cost>
+		<img>media/clothes/women/Дубленка из овчины.jpg</img>
+		<gender>women</gender>
+	</item>
+	<item>
+		<name>Брюки из кашемира</name>
+		<cost>199</cost>
+		<img>media/clothes/men/Брюки из кашемира.png</img>
+		<gender>men</gender>
+	</item>
+	<item>
+		<name>Джемпер мужской</name>
+		<cost>299</cost>
+		<img>media/clothes/men/Джемпер мужской.jpg</img>
+		<gender>men</gender>
+	</item>
+	<item>
+		<name>Жилет из нейлона</name>
+		<cost>159</cost>
+		<img>media/clothes/men/Жилет из нейлона.jpg</img>
+		<gender>men</gender>
+	</item>
+	<item>
+		<name>Куртка из шерсти</name>
+		<cost>259</cost>
+		<img>media/clothes/men/Куртка из шерсти.png</img>
+		<gender>men</gender>
+	</item>
+	<item>
+		<name>Куртка с отделкой из меха</name>
+		<cost>219</cost>
+		<img>media/clothes/men/Куртка с отделкой из меха.jpg</img>
+		<gender>men</gender>
+	</item>
+	<item>
+		<name>Лоферы мужские</name>
+		<cost>339</cost>
+		<img>media/clothes/men/Лоферы мужские.jpg</img>
+		<gender>men</gender>
+	</item>
+	<item>
+		<name>Ботинки Rick Owens мужские</name>
+		<cost>2599</cost>
+		<img>media/clothes/men/Ботинки Rick Owens мужские.jpg</img>
+		<gender>men</gender>
+	</item>
+</clothes>
